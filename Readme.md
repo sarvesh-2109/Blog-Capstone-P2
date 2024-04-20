@@ -2,6 +2,13 @@
 
 Travel-o-Mania is a dynamic web blog where users can read various posts about travel experiences, tips, and cultural insights. Built with Flask, this blog pulls data from a REST API and serves content dynamically to the end-users.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Blog-Capstone-P2/assets/113255836/56fce625-ae12-49d4-876e-24dbc128ceac
+
+
+
 ## Features
 
 - **Dynamic Content Loading:** Posts are fetched from an external API and rendered dynamically.
@@ -37,8 +44,8 @@ Travel-o-Mania is a dynamic web blog where users can read various posts about tr
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sarvesh-2109/Travel-o-Mania.git
-   cd Travel-o-Mania
+   git clone https://github.com/sarvesh-2109/Blog-Capstone-P2
+   cd Blog-Capstone-P2
    ```
 
 2. **Create a Virtual Environment (Optional but recommended)**
